@@ -1,2 +1,2 @@
-# gulog
-Website to share logger downloads
+# GU Combat Log Viewer
+Download here
