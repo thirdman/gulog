@@ -26,6 +26,11 @@
     .main-content h1, .main-content h3 {
       color: #0a4862;
     }
+    @media screen and (min-width: 42em){
+    .main-content .preview-image{
+      margin-left: -2rem;
+    }
+  }
   </style>
   <body>
   
@@ -46,7 +51,7 @@
       <h1>GU combat log viewer</h1>
       <h3 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h3>
       
-      <img src="./assets/screenshot.png" />
+      <img src="./assets/screenshot.png" class="preview-image" />
       <hr />
       {{ content }}
 
