@@ -1,4 +1,3 @@
-This is a small desktop app that visualises your Gods Unchained combat log.
 
 ### 3 modes
 - Turns: Shows the cards played each turn. This is the most simplified mode, and is intended to allow you to quickly review what was played during the game.
@@ -6,7 +5,7 @@ This is a small desktop app that visualises your Gods Unchained combat log.
 - Raw: Displays the raw log line by line
 
 ---
-
+### Releases
 Test Release version v0.5.1
 
 - MAC: [gu-log-viewer_0.5.0.dmg](https://github.com/thirdman/gulog/releases/download/v0.5.1/gu-log-viewer_0.5.0.exe)
