@@ -26,16 +26,19 @@
     .main-content h1{
       color: #000;
       font-size: 3rem;
+      font-weight: 700;;
     }
     .main-content h3 {
       color: #0a4862;
+      font-weight: 700;;
     }
     @media screen and (min-width: 42em){
     .main-content .preview-image{
       margin-left: -2rem;
     }
     .main-content hr{
-      background-color: rgba(0,0,0,.2);
+      background-color: rgba(19, 79, 102, 0.18);
+      height: 1px;
     }
   }
   </style>
@@ -63,7 +66,7 @@
       <hr />
       {{ content }}
       <hr />
-      
+
       <footer class="site-footer">
         <!-- {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
