@@ -1,8 +1,14 @@
+### Features
+- Updates in realtime as you play games
+- Automatic linking to opponent profile on GU Decks
+- Show cards and God Power used each turn
+- Automatic archive on new game.
+- Persistent archive (review at your leisure)
 
 ### 3 modes
-- Turns: Shows the cards played each turn. This is the most simplified mode, and is intended to allow you to quickly review what was played during the game.
-- Filtered (default): this is a filtered and styled version of your log. The goal is to filter out clutter so you can quickly see what happened.
-- Raw: Displays the raw log line by line
+- *Turns* Shows the cards played each turn. This is the most simplified mode, and is intended to allow you to quickly review what was played during the game.
+- *Filtered* (default) A filtered and styled version of your log. The goal is to filter out clutter so you can quickly see what happened.
+- *Raw* Displays the raw log line by line
 
 ---
 ### Releases
