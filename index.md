@@ -1,3 +1,8 @@
+### Features
+- Automatic linking to opponent profile on GU Decks
+- Show cards and God Power used each turn
+- Automatic archive each game.
+- Persistent archive (review at your leisure)
 
 ### 3 modes
 - Turns: Shows the cards played each turn. This is the most simplified mode, and is intended to allow you to quickly review what was played during the game.
